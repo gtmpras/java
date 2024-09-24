@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArraySorting",
+            "request": "launch",
+            "mainClass": "ArraySorting",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "CardLayoutDemo",
+            "request": "launch",
+            "mainClass": "CardLayoutDemo",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "FileInputStreamExample",
+            "request": "launch",
+            "mainClass": "FileInputStreamExample",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "FileOutputStreamExample",
+            "request": "launch",
+            "mainClass": "FileOutputStreamExample",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "FirstFrameAssociation",
+            "request": "launch",
+            "mainClass": "FirstFrameAssociation",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "FirstFrameInheritance",
+            "request": "launch",
+            "mainClass": "FirstFrameInheritance",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "GridBagDemo",
+            "request": "launch",
+            "mainClass": "GridBagDemo",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "GridLayoutDemo",
+            "request": "launch",
+            "mainClass": "GridLayoutDemo",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Home",
+            "request": "launch",
+            "mainClass": "Home",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "MenuDemo",
+            "request": "launch",
+            "mainClass": "MenuDemo",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "OverloadingDemo",
+            "request": "launch",
+            "mainClass": "OverloadingDemo",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "RectangleDemo",
+            "request": "launch",
+            "mainClass": "RectangleDemo",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "StudentRegistration",
+            "request": "launch",
+            "mainClass": "StudentRegistration",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "TestCustomException1",
+            "request": "launch",
+            "mainClass": "TestCustomException1",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "ThreadExampleInterface",
+            "request": "launch",
+            "mainClass": "ThreadExampleInterface",
+            "projectName": "java_a7cf075c"
+        }
+    ]
+}
