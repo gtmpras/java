@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OptionPaneExample",
+            "request": "launch",
+            "mainClass": "OptionPaneExample",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "DialogDemo",
+            "request": "launch",
+            "mainClass": "DialogDemo",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
