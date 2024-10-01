@@ -12,16 +12,16 @@ public class ABStart implements ActionListener {
     JTextField tf1, tf2, tf3, tf4, nt;
 
     JButton next, prev, first, last, insert, update_name, update_cell, update_email, update_res;
-    // connecting database
-    Connection con = null;
-    Statement stmt = null;
+    // // connecting database
+    // Connection con = null;
+    // Statement stmt = null;
     ResultSet rs;
 
     ABStart() {
         JFrame jf = new JFrame();
         jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         jf.setSize(750, 400);
-        jf.setTitle("My Address Book");
+        jf.setTitle("A complete learning way!");
         jf.setLocation(100, 100);
         jf.setLayout(new BorderLayout());
 
@@ -34,7 +34,7 @@ public class ABStart implements ActionListener {
         jf.add(p3, BorderLayout.CENTER);
 
         Font f1 = new Font("Mistral", Font.BOLD, 24);
-        l = new JLabel("Prasoon's Address Book");
+        l = new JLabel("E-learning Application");
         l.setFont(f1);
         p1.add(l);
 
@@ -56,7 +56,7 @@ public class ABStart implements ActionListener {
         b5.addActionListener(this);
 
         jf.setVisible(true);
-        new ABStart();
+        new ABLogin();
 
     }
 
@@ -64,7 +64,7 @@ public class ABStart implements ActionListener {
 
     }
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args)  {
         new ABStart();
     }
 }
