@@ -49,7 +49,7 @@ public class swing_sum extends JFrame implements MouseListener {
     // MouseListener methods
     @Override
     public void mouseClicked(MouseEvent e) {
-        sum();
+        
     }
 
     @Override
@@ -58,7 +58,9 @@ public class swing_sum extends JFrame implements MouseListener {
     }
 
     @Override
-    public void mousePressed(MouseEvent e) {}
+    public void mousePressed(MouseEvent e) {
+        sum();
+    }
 
     @Override
     public void mouseEntered(MouseEvent e) {}

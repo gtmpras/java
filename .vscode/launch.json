@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EventTest",
+            "request": "launch",
+            "mainClass": "EventTest",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "FocusEventEg",
+            "request": "launch",
+            "mainClass": "FocusEventEg",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "KeyHandleActionEvent",
+            "request": "launch",
+            "mainClass": "KeyHandleActionEvent",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "HandleActionEvent",
+            "request": "launch",
+            "mainClass": "HandleActionEvent",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "AdapterExample",
+            "request": "launch",
+            "mainClass": "AdapterExample",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "MultiThreading_extend",
+            "request": "launch",
+            "mainClass": "MultiThreading_extend",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "listner",
+            "request": "launch",
+            "mainClass": "listner",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "RC",
+            "request": "launch",
+            "mainClass": "RC",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "PaackageB",
+            "request": "launch",
+            "mainClass": "PaackageB",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "swing_sum",
+            "request": "launch",
+            "mainClass": "swing_sum",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
             "name": "OptionPaneExample",
             "request": "launch",
             "mainClass": "OptionPaneExample",
